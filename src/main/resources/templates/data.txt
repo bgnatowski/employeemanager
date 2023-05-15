@@ -1,0 +1,63 @@
+{
+	"name":"Sam Weissnat",
+	"email":"shirlee.crooks@yahoo.com",
+	"jobTitle":"Hospitality Strategist",
+	"phoneNumber":"1-610-857-8373",
+	"imageUrl":"https://bootdey.com/img/Content/avatar/avatar1.png"
+},
+{
+	"name":"Leslie Wyman",
+	"email":"mike.gerlach@yahoo.com",
+	"jobTitle":"Retail Analyst",
+	"phoneNumber":"1-072-214-4564",
+	"imageUrl":"https://bootdey.com/img/Content/avatar/avatar2.png"
+},
+{
+	"name":"Sabine Mills",
+	"email":"antony.leannon@gmail.com",
+	"jobTitle":"Sales Orchestrator",
+	"phoneNumber":"777-103-5264 x553",
+	"imageUrl":"https://bootdey.com/img/Content/avatar/avatar3.png"
+},
+{
+	"name":"Jewel Deckow",
+	"email":"loretta.casper@hotmail.com",
+	"jobTitle":"Legal Associate",
+	"phoneNumber":"(065) 117-4910 x0388",
+	"imageUrl":"https://bootdey.com/img/Content/avatar/avatar4.png"
+},
+{
+	"name":"Julius Koelpin",
+	"email":"yi.maggio@hotmail.com",
+	"jobTitle":"Sales Developer",
+	"phoneNumber":"452-853-3657 x9142",
+	"imageUrl":"https://bootdey.com/img/Content/avatar/avatar5.png"
+},
+{
+	"name":"Austin O'Kon",
+	"email":"latonya.connelly@hotmail.com",
+	"jobTitle":"Government Executive",
+	"phoneNumber":"1-930-979-8941",
+	"imageUrl":"https://bootdey.com/img/Content/avatar/avatar6.png"
+},
+{
+	"name":"Belen Nolan",
+	"email":"antwan.ratke@hotmail.com",
+	"jobTitle":"Product Manager",
+	"phoneNumber":"1-983-537-5581 x805",
+	"imageUrl":"https://bootdey.com/img/Content/avatar/avatar7.png"
+},
+{
+	"name":"Shanda Doyle",
+	"email":"spencer.lesch@hotmail.com",
+	"jobTitle":"Community-Services",
+	"phoneNumber":"708-849-6099",
+	"imageUrl":"https://bootdey.com/img/Content/avatar/avatar8.png"
+},
+{
+	"name":"Lee Purdy",
+	"email":"dominick.bruen@hotmail.com",
+	"jobTitle":"Sales Director",
+	"phoneNumber":"179.819.9765 x7893",
+	"imageUrl":"https://bootdey.com/img/Content/avatar/avatar9.png"
+},
